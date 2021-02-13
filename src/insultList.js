@@ -8,9 +8,9 @@ let insultList = [
 
     "You must be an experiment in Artificial Stupidity.",
     "You're not stupid... just possessed by a retarded ghost.",
-    "",
+    "If ignorance is bliss, you must be the happiest person alive.",
     "Get your money up not your funny up :pig:",
-    "test5",
+    "Yeah, yeah, keep talking, someday you might say something smart.",
     "test6"
 
 ]
